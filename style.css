@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+.love-project .heart h1 {
+color:#ff0000;
+text-align: center;
+text-transform: capitalize;
+font-weight:400;
+font-size: 6.5em;
+margin-top: 50px;
+font-family: 'Love Ya Like A Sister', cursive;
+}
+.love-button button{
+    margin-left: 200px;
+}
+.love-button button {
+    margin-left: 341px;
+}
+button.side-0 {
+    font-size: 30px;
+    padding: 10px 20px;
+    color: red;
+    background-color: orange;
+    font-family: 'Love Ya Like A Sister';
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-color: yellow;
+}
+button.side-0 {
+    font-size: 30px;
+    padding: 10px 20px;
+    color: red;
+    background-color: orange;
+    font-family: 'Love Ya Like A Sister';
+    border-radius: 20px;
+    cursor: pointer; 
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-color: yellow;
+    box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+    -webkit-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+    -moz-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+    
+}
+button.side-1 {
+    font-size: 30px;
+    padding: 10px 20px;
+    color: red;
+    cursor:pointer;
+    background-color: orange;
+    font-family: 'Love Ya Like A Sister';
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-color: yellow;
+    box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+    -webkit-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+    -moz-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+}
+
+
+
+
