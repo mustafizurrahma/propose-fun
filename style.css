@@ -2,14 +2,16 @@
     margin: 0;
     padding: 0
 }
-
+#lv-project{
+    background-color: #2C61D8;
+    padding:114px 0px;
+}
 .love-project .heart h1 {
 color:#ff0000;
 text-align: center;
 text-transform: capitalize;
 font-weight:400;
 font-size: 6.5em;
-margin-top: 50px;
 font-family: 'Love Ya Like A Sister', cursive;
 }
 .love-button button{
@@ -65,4 +67,55 @@ button.side-1 {
     box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
     -webkit-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
     -moz-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+}
+#proposeSection{
+    display:none;
+    background-color: #2C61D8;
+    color: #fff;
+    padding:65px 70px;
+}
+.loveTitile h3 {
+    text-align: center;
+    font-size: 49px;
+    padding: 25px 15px;
+    font-weight: 800;
+    font-family: cursive;
+    color: red;
+    text-transform: capitalize;
+    box-shadow: 4px 4px 16px -6px rgb(0 0 0);
+    -webkit-box-shadow: 4px 4px 16px -6px rgb(0 0 0);
+    -moz-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+}
+.loveTitile p {
+    font-family: ;
+    text-align: center;
+    width: 500px;
+    margin-left: 300px;
+    font-family: 'Mina', sans-serif;
+    font-size: 20px;
+    box-shadow: 4px 4px 16px -6px rgb(0 0 0);
+    -webkit-box-shadow: 4px 4px 16px -6px rgb(0 0 0);
+    -moz-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+    padding: 25px;
+}
+#noNeverSection{
+    display: none;
+    background-color: #cf16b7;
+    color: white;
+    padding:50px 0px;
+}
+.messageBox{
+    margin-top: 20px;
+    width: 45%;
+    padding: 25px;
+    margin-left: 300px;
+    box-shadow: 4px 4px 16px -6px rgb(0 0 0);
+    -webkit-box-shadow: 4px 4px 16px -6px rgb(0 0 0);
+    -moz-box-shadow: 4px 4px 16px -6px rgba(0,0,0,1);
+}
+.messageBox label.form-label {
+    color: #fff;
+    text-transform: capitalize;
+    font-family: 'Mina';
+    font-size: 20px;
 }
